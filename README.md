@@ -17,9 +17,25 @@ Manage lessons, students, attendance and payments in one place — without subsc
 - **Backups:** export and import your data, with additional in-app backups.
 - **Personalization:** light and dark themes, flexible navigation and display settings.
 
+
 ## Screenshots
 
-Screenshots will be added here.
+| Weekly calendar | Students |
+|:---:|:---:|
+| ![Weekly calendar](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/01_week.png) | ![Students](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/02_students.png) |
+
+| Payments | More tools |
+|:---:|:---:|
+| ![Payments](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/03_payments.png) | ![More tools](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/04_more.png) |
+
+| Classes | Schedules |
+|:---:|:---:|
+| ![Classes](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/05_classes.png) | ![Schedules](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/06_schedules.png) |
+
+| Reports | Settings |
+|:---:|:---:|
+| ![Reports](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/07_reports.png) | ![Settings](https://raw.githubusercontent.com/ilyakhaiko/TutorLedger/main/screenshots/08_settings.png) |
+
 
 ## Download and install
 
